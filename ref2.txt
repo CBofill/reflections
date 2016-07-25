@@ -9,3 +9,9 @@ you control each commit so it can be per logical step, even if you changed more 
 
 How can you use the staging area to make sure you have one commit per logical change?
 It lets you review your commit before making it, line by line.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+Any time you're adding features that weren't originally intended in the project. It helps 
+because it lets you work separately on those features without having them affect the project,
+in case it doesn't go as intended.
