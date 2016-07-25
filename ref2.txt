@@ -6,3 +6,6 @@ value do you think it offers?
 It doesn't actually affect anything until you say to commit. It lets you set up the commit with
 the files you actually want instead of always committing the entire repo. In particular this lets 
 you control each commit so it can be per logical step, even if you changed more than one thing
+
+How can you use the staging area to make sure you have one commit per logical change?
+It lets you review your commit before making it, line by line.
