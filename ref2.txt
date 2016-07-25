@@ -15,3 +15,7 @@ How would branches help?
 Any time you're adding features that weren't originally intended in the project. It helps 
 because it lets you work separately on those features without having them affect the project,
 in case it doesn't go as intended.
+
+How do the diagrams help you visualize the branch structure?
+Maybe I'm getting hungry but a diagram is literally a visualization of the structure.
+I don't know how to be more specific.
