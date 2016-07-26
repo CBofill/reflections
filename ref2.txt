@@ -25,3 +25,7 @@ way we do?
 The result is that any changes that have been made get combined into a new commit, and all 
 of the two branches' history is reachable from the merge. Git decides how the changes should 
 be merged in a logical way. If there's no clear way of merging them it won't do it.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+The pros are that it's much easier and you're much less likely to miss something. I can't
+imagine the headache a manual merge would be. 
